@@ -14,7 +14,7 @@ from langchain_community.embeddings import OpenAIEmbeddings
 #from langchain.vectorstores import FAISS
 from langchain_community.vectorstores import FAISS
 
-OPEN_API_KEY = ""
+OPEN_API_KEY = "Get the API key from Openai.com"
 
 #upload PDF files
 st.header("My First Chatbot")
