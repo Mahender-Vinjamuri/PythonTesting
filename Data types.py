@@ -20,7 +20,7 @@ Dic = {1: "Mahi", 2: "Madhuri", "3": "Aara", 4: 11.21}
 print(Dic[4])
 Dic[4] = "Aaradhya"
 print(Dic)
-Dict = {}
+Dict={}
 Dict["First Name"] = "Madhuri"
 Dict["Last Name"] = "Mahi"
 Dict["Middle Name"] = "Aara"
